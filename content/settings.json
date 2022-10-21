@@ -4,10 +4,10 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/customcolor_logo_customcolor_background.png",
   "name": "crossbazzar",
   "short_name": "crossbazzar",
   "lang": "pt_br",
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "tabler-icons",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
