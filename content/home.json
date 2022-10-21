@@ -50,6 +50,11 @@
       "type": "page-title",
       "title": "Loja da E-Com Plus",
       "description": ""
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
