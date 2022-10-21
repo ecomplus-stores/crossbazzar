@@ -1,7 +1,7 @@
 {
-  "domain": "crossbazzar.com",
+  "domain": "crossbazzar.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#d84675",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-gray"
