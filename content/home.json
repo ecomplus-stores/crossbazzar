@@ -23,7 +23,7 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
+      "load_more": false,
       "sort": "offers"
     },
     {
@@ -35,9 +35,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "626c25c93da6d37bc2153baf:categories:SNKRS:/snkrs",
-      "sort": "news",
+      "shuffle": true,
+      "collection_id": "6228bbda8bd0103c54e882eb:categories:Tenis:/tenis",
+      "sort": "views",
       "title": "",
       "headless": false,
       "limit": 12,
@@ -45,11 +45,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "6228bc168bd0103c54e88364:categories:Bazzar:/bazzar",
-      "sort": "news"
+      "collection_id": "626c25c93da6d37bc2153baf:categories:SNKRS:/snkrs",
+      "sort": "views"
     },
     {
       "type": "page-title",
