@@ -19,9 +19,12 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "offers"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 6,
+      "page": 1,
+      "sort": "offers",
+      "title": "BLACK FRIDAY"
     },
     {
       "type": "collection-shelf",
