@@ -1,5 +1,6 @@
 {
   "domain": "crossbazzar.com.br",
+  "repository": "ecomplus-stores/crossbazzar",
   "currency_symbol": "R$",
   "primary_color": "#d84675",
   "theme": {
