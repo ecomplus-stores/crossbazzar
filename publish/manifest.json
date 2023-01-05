@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b005e80fbc0d1005b01f459a75c0d060.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.38438d60059d9dc86dcc6a42d916849d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.fe174af8ed06735580c8736a56937ec1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.10cd9af456b4125ea0cffcc2cf19dd45.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c818151710a3f5fedbda9f337969c41f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "crossbazzar",
+  "short_name": "CrossBazzar",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "CrossBazzar Santos/SP",
+  "background_color": "#ffffff",
+  "theme_color": "#d84675"
+}
