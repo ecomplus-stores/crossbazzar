@@ -1,13 +1,13 @@
 {
   "domain": "crossbazzar.com.br",
-  "repository": "ecomplus-stores/crossbazzar",
   "currency_symbol": "R$",
   "primary_color": "#d84675",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-gray"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/crossbazzar",
   "logo": "/img/uploads/customcolor_logo_customcolor_background.png",
   "name": "crossbazzar",
   "short_name": "CrossBazzar",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/customcolor_logo_customcolor_background.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#0c1821",
   "icon": "/img/uploads/customcolor_logo_customcolor_background.png",
   "store_id": 26526,
   "description": "CrossBazzar Santos/SP",
