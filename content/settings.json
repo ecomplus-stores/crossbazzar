@@ -4,7 +4,7 @@
   "primary_color": "#d84675",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/crossbazzar",
@@ -14,11 +14,11 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Oswald",
   "favicon": "/img/uploads/customcolor_logo_customcolor_background.png",
-  "icons_font": "font-awesome",
+  "icons_font": "tabler-icons",
   "country_code": "BR",
-  "secondary_color": "#0c1821",
+  "secondary_color": "#133f59",
   "icon": "/img/uploads/customcolor_logo_customcolor_background.png",
   "store_id": 26526,
   "description": "CrossBazzar Santos/SP",
