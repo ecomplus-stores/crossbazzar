@@ -50,6 +50,14 @@
       "sort": "news"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "626c25c93da6d37bc2153baf:categories:SNKRS:/snkrs",
+      "sort": "views"
+    },
+    {
       "type": "page-title",
       "title": "Loja da E-Com Plus",
       "description": ""
