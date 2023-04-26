@@ -58,6 +58,11 @@
       "sort": "views"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
       "type": "page-title",
       "title": "Loja da E-Com Plus",
       "description": ""
