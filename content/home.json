@@ -45,7 +45,9 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "6228bc168bd0103c54e88364:categories:Bazzar:/bazzar",
+      "sort": "news"
     },
     {
       "type": "page-title",
