@@ -34,6 +34,11 @@
       "offset": 0
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -56,11 +61,6 @@
       "page": 1,
       "collection_id": "626c25c93da6d37bc2153baf:categories:SNKRS:/snkrs",
       "sort": "views"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     },
     {
       "type": "page-title",
